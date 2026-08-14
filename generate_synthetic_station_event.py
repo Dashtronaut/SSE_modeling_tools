@@ -1,4 +1,7 @@
 """
+Uses the actual noise from a station and adds a synthetic tangent step to it
+
+
     <OUTPUT_ROOT>/<STATION>_synthetic/
         24h/20230608/<STATION>....pos     
         12h/20230608/<STATION>....pos       
