@@ -1,0 +1,24 @@
+'''
+Stations excluded for distance:
+EXCLUDED_STATIONS = ["DRAO","WILL", "PRDS", "SACH", "HOLM", "INVK", "FAIR", "WHIT", "YELL", "BAKE", "CHUR", "SASK", "QUIN", "GOLD", "VNDP", "MONP", "PIE1", "KOKB", "HNLC", "MAUI", "MKEA"]
+
+
+EXCLUDED_STATIONS = ["CSHR", "COUP", "SNRS", "P437", "BLYN", "SSHO", "ZSE1", "CNCR", "P418", "DRAO", "WILL", "PRDS", "SACH", "HOLM", "INVK", "FAIR", "WHIT", "YELL", "BAKE", "CHUR", "SASK", "QUIN", "GOLD", "VNDP", "MONP", "PIE1", "KOKB", "HNLC", "MAUI", "MKEA"]
+
+
+Stations excluded for lack of data:
+
+
+24h
+EXCLUDED_STATIONS = ["CSHR","COUP","SSHO","ZSE1","CNCR","P418","DRAO","WILL", "PRDS", "SACH", "HOLM", "INVK", "FAIR", "WHIT", "YELL", "BAKE", "CHUR", "SASK", "QUIN", "GOLD", "VNDP", "MONP", "PIE1", "KOKB", "HNLC", "MAUI", "MKEA"]
+
+12h
+EXCLUDED_STATIONS = ["SSHO","ZSE1","CNCR","P418","DRAO","WILL", "PRDS", "SACH", "HOLM", "INVK", "FAIR", "WHIT", "YELL", "BAKE", "CHUR", "SASK", "QUIN", "GOLD", "VNDP", "MONP", "PIE1", "KOKB", "HNLC", "MAUI", "MKEA"]
+
+08h
+EXCLUDED_STATIONS = ["SSHO","ZSE1","CNCR","P418","DRAO","WILL", "PRDS", "SACH", "HOLM", "INVK", "FAIR", "WHIT", "YELL", "BAKE", "CHUR", "SASK", "QUIN", "GOLD", "VNDP", "MONP", "PIE1", "KOKB", "HNLC", "MAUI", "MKEA"]
+
+06h
+EXCLUDED_STATIONS = ["P440","SSHO","ZSE1","CNCR","P418","DRAO","WILL", "PRDS", "SACH", "HOLM", "INVK", "FAIR", "WHIT", "YELL", "BAKE", "CHUR", "SASK", "QUIN", "GOLD", "VNDP", "MONP", "PIE1", "KOKB", "HNLC", "MAUI", "MKEA"]
+
+'''
